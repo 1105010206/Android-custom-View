@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_kind" >
+        <item>一阶赛贝曲线</item>
+        <item>二阶赛贝曲线</item>
+        <item>三阶赛贝曲线</item>
+        <item>圆形赛贝曲线</item>
+        <item>轨迹球赛贝曲线</item>
+        <item>自定义折线图</item>
+        <item>自定义直方图</item>
+        <item>自定义圆环进度条</item>
+    </string-array>
+</resources>
